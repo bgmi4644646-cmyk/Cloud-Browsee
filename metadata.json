@@ -1,0 +1,6 @@
+{
+  "name": "antideploy",
+  "description": "A persistent 24/7 collaborative server browser sandbox where any visitor can interact with the live browser and witness simultaneous real-time actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
